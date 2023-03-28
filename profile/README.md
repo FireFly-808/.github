@@ -33,7 +33,7 @@
 
 #### Front End
 
-Application Url: 
+Link to web application: 
 http://firefly808.com/
 
 ![Alt](frontend.png "Title")
