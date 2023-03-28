@@ -31,7 +31,7 @@
 
 ### Web Application
 
-![Alt](server_diagram.png "Title")- 
+![Alt](server_diagram.png "Title")
 
 ### Block Diagram
 
