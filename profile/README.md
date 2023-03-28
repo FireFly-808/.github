@@ -30,24 +30,33 @@
 - Image position accuracy of 0.5m average
 
 ### Web Application
+
 ![Alt](server_diagram.png "Title")- 
 
 ### Block Diagram
+
 ![Alt](full_block_diagram.png "Title")
 
 ### Perception Pipeline
+
 ![Alt](ml_pipeline.png "Title")
 
 ### Results
+
 ![Alt](results.png "Title")
 
 ### Poster
+
 ![Alt](poster.png "Title")
 
 ### Symposium
+
 ![Alt](symposium.jpg "Title")
 
 ### Team
+
 ![Alt](team.jpg "Title")
 
+
+https://github.com/FireFly-808/.github/tree/master/profile
 
