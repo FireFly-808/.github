@@ -3,7 +3,7 @@
 ## A forest fire pre-emption system
 
 ### Description
-
+This app allows emergency personnel to assess the severity within minutes. An autonomous drone equipped with infrared and RGB cameras surveys the forest, relaying collected data to a cloud-hosted server. The images are analyzed by the multi-modal perception pipeline, classifying and segmenting fire from the RGB/IR image pairs. The user can browse a map of hotspots in the web application to see more details and high-resolution photos of the area.
 
 ### Motivation
 - Every year hundreds of forest fires occur within Canada alone. 
