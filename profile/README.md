@@ -48,7 +48,7 @@ http://firefly808.com/
 
 ### Perception Pipeline
 
-![Alt](ml_pipeline.png "Title")
+![Alt](../ml_pipeline.png "Title")
 
 ### Results
 
